@@ -16,19 +16,17 @@ This project is an AI-powered video chatbot that:
 - Custom-trained on Roboflow using YOLOv12
 
 ---
-
-# Dark Circle Detection Video Chatbot
+# 👁️ Dark Circle Detection Video Chatbot
 
 This project uses a YOLOv12-based deep learning model to detect dark circles under the eyes via webcam and responds with real-time voice suggestions using TTS.
 
-## Sample Detection Output
+## 📸 Sample Detection Output
 
-![Output Image](https://drive.google.com/uc?export=view&id=1iqlSQhyEGtmQJcTyb5G1EAytbYlMFG_M)
+![Output Image](https://drive.google.com/uc?export=view&id=12ZaSS_QXvs_K3E6lZnqkVZT51gm3xjJ9)
 
-## Demo Video
+## 🎥 Demo Video
 
-[![Watch the demo](https://img.shields.io/badge/Watch-Demo-blue?logo=google-drive)](https://drive.google.com/file/d/12ZaSS_QXvs_K3E6lZnqkVZT51gm3xjJ9/view?usp=sharing)
-
+[![Watch the demo](https://img.shields.io/badge/Watch-Demo-blue?logo=google-drive)](https://drive.google.com/file/d/1iqlSQhyEGtmQJcTyb5G1EAytbYlMFG_M/view?usp=sharing)
 
 
 
